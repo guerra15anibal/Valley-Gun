@@ -61,4 +61,8 @@ footer{
         width: 80%;
     }
 
+.wsc,.fullService{
+    text-decoration: underline;
+    text-align: center;
+}
 }
